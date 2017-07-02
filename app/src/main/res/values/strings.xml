@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPrefAssignment</string>
+    <string name="Page_Title">Information</string>
+    <string name="Page_Name">Enter Name</string>
+    <string name="Page_Age">Enter Age</string>
+    <string name="Page_Phone">Enter Phone</string>
+    <string name="Page_City">Enter City</string>
+    <string name="Page_Save">SAVE</string>
+    <string name="Page_Show">SHOW</string>
+</resources>
